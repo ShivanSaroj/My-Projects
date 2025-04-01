@@ -1,33 +1,30 @@
-Scientific Calculator
+# Scientific Calculator
 
-A fully functional scientific calculator built with HTML, CSS, and JavaScript. The calculator supports basic arithmetic operations.
-
-Features
-1. Basic Operations: Addition, subtraction, multiplication, and division.
-2. Keyboard Support: Enter calculations using your keyboard.
-3. Responsive Design: Works on desktop and mobile devices.
-
-Installation
-To run this project locally, follow these steps:
-
-Clone the repository:
-using command-
-git clone https://github.com/ShivanSaroj/Calculator.git
-Navigate to the project directory:
-using command-
-cd Calculator
-Open calculator.html in your browser to use the calculator.
+A fully functional scientific calculator built with HTML, CSS, and JavaScript that supports both basic and advanced mathematical operations.
 
 
-Usage
-1. Open the application in your browser.
-2. Use the buttons to input numbers and operations.
-3. Write any expression to be evaluated.
-4. View the result in the display area.
-5. Click "C" to clear the screen.
+## Features
 
+### Basic Operations
+- Addition, subtraction, multiplication, and division
+- Decimal point operations
+- Clear (C) and All Clear (AC) functionality
+- Percentage calculations
 
-Technologies Used
-1. HTML5: Structure of the calculator.
-2. CSS3: Styling for layout and design.
-3. JavaScript: Logic for handling calculations and user interactions.
+### Enhanced Usability
+- Keyboard support (type calculations directly)
+- Responsive design (works on all devices)
+- Error handling for invalid expressions
+
+## Installation
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ShivanSaroj/Calculator.git
+2. Navigate to the project directore:
+    cd Calculator.html
+3. Run in your preferred browser:
+    open calculator.html  # On Mac
+    start calculator.html # On Windows
